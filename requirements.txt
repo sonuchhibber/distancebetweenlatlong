@@ -3,5 +3,4 @@ openpyxl
 streamlit
 pandas
 geopy
-geopy.distance
 geodesic
