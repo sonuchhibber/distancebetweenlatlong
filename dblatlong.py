@@ -11,6 +11,10 @@ if uploaded_file is not None:
     c=dataframe.values.tolist()
 else:
     st.write("Upload file")
+    st.write('In first coloumn from')
+    st.write('(28.4070,77.8498)')
+    st.write('In second column to')
+    st.write('(28.4070,77.8498)')
 
 i=1
 while i<len(c):
