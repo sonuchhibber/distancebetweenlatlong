@@ -1,0 +1,6 @@
+pip
+openpyxl
+streamlit
+pandas
+geopy.distance
+geodesic
